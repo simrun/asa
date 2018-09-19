@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url("ocean.jpg");
+  background-size: cover;
+}
+
+h1 {
+  margin: 0 auto;
+  padding: 30px ;
+  font-size: 4em;
+  color: white;
+}
+
+#tweetList {
+  margin: auto;
+  width: 70%;
+  height: 70%;
+  border-radius: 25px;
+  border: 5px dashed #7b3d99;
+  background-color: #af7bc6;
+  font-size: 2em;
+  overflow-y: scroll;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #AA8FA9;
+  border: 1px dotted #000000;
+}
+
+em {
+  font-size: 15px;
+  color: #BBBBBB;
+}
+
+#tweetInput {
+  margin: 20px auto 0 auto;
+  width: 60%;
+  font-size: 2em;
+  border-color: black;
+}
