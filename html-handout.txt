@@ -1,0 +1,10 @@
+CSS
+ color - text colour (note american spelling)
+ font-size - size of text (the unit here is 'em')
+ background-image - add image to the background of this tab (e.g. body, H1 etc)
+ text-align - changes text - left
+                           - right
+                           - center (note american spelling)
+
+width, height - %
+border-radius: 1px
