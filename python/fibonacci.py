@@ -1,3 +1,5 @@
+# Prints the Fibonacci sequence, in which every element is the sum of the previous two
+
 first = 1
 second = 1
 
