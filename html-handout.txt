@@ -32,8 +32,6 @@ img - puts an image on your page. Takes an attribute called 'src', like this:
   <img src="myImage.jpg">
 
 
-
-
 CSS
  color - text colour (note american spelling)
  font-size - size of text (the unit here is 'em')
