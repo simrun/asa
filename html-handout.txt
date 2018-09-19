@@ -1,3 +1,39 @@
+HTML
+
+html - all tags needs to go inside of this, it's the root of any document
+head - This is where you put accessory things that you need to load
+    before the rest of the page. This would include styles, for example.
+body - Anything you put in here will be visible by people viewing your page
+
+h1 - heading 1 - the biggest title you have on your page
+h2, h3 - you can also make smaller titles using these
+
+ul - unordered list. Fill this with <li> tags.
+
+li - li items - these will usually appear as a bulleted lists unless
+  you use CSS to style them
+
+
+<link href="styles.css" rel="stylesheet" type="text/css">
+  - links a stylesheet called 'styles.css' to the webpage. Put this inside your head tags
+
+<script src="script.js"> </script>
+  - adds a Javascript script called script.js to your page. You
+   usually put these inside the head tag too, but if your JavaScript
+   talks to your HTML elements (e.g. to create <li> elements), then you should
+   put this right at the end of your body.
+
+
+input - this provides a small box for you to type things into.
+  It takes a single attribute called type, like this
+  <input type="text"></input>
+
+img - puts an image on your page. Takes an attribute called 'src', like this:
+  <img src="myImage.jpg">
+
+
+
+
 CSS
  color - text colour (note american spelling)
  font-size - size of text (the unit here is 'em')
