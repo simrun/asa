@@ -1,0 +1,9 @@
+alt-tab	switch between windows. Tap to go to the last window you used. Tap more than once to cycle through all windows
+ctrl-s	save
+ctrl-c	copy
+ctrl-v	paste
+ctrl-x	cut (like copy, but also deletes what you've selected
+ctrl-z	undo
+ctrl-a	select everything!
+shift + left arrow key	selects the character to your left. Keep tapping to select more characters
+F5	refreshes your browser page
