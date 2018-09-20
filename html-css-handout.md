@@ -1,5 +1,7 @@
 # HTML/CSS cheat sheet
 
+Notes for a crash course in web development at African Science Academy, Ghana.
+
 ## HTML
 
 Every HTML page must include the following elements:
