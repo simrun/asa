@@ -1,0 +1,20 @@
+Create an account at github.com
+
+Go to github.com/new and create a new repository. The name should be: yourusername.github.io
+
+Copy the address of the repository from github. It looks like: https://github.com/yourusername/yourusername.github.io.git
+
+Open cmd.exe and use the following commands:
+
+git clone https://github.com/yourusername/yourusername.github.io.git
+
+Copy your main html file to the yourusername.github.io folder, and name it ‘index.html’.
+
+Run these commands:
+
+cd yourusername.github.io
+git add index.html
+git commit -m “First Version”
+git push
+
+DONE! Open your browser and go to: yourusername.github.io
